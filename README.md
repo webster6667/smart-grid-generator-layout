@@ -17,7 +17,7 @@ npm i smart-grid
 * Download script to dir which contain package.json
 
 ```shell
-wget https://github.com/webster6667/smart-grid-generator-layout/master/smart-grid.js
+wget https://raw.githubusercontent.com/webster6667/smart-grid-generator-layout/master/smart-grid.js
 ```
 
 * Add script to package.json
