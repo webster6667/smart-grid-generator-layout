@@ -1,0 +1,22 @@
+{
+  "name": "smart-grid-generator",
+  "version": "1.0.0",
+  "description": "layout file for smart-grid generate",
+  "scripts": {
+    "build-grid": "node smart-grid.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webster6667/MYLIBNAME.git"
+  },
+  "keywords": [],
+  "author": "webster6667",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webster6667/MYLIBNAME/issues"
+  },
+  "homepage": "https://github.com/webster6667/MYLIBNAME#readme",
+  "dependencies": {
+    "smart-grid": "^2.1.2"
+  }
+}
