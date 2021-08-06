@@ -1,9 +1,9 @@
 {
   "name": "smart-grid-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "layout file for smart-grid generate",
   "scripts": {
-    "build-grid": "node smart-grid.js"
+    "build:grid": "node smart-grid.js"
   },
   "repository": {
     "type": "git",

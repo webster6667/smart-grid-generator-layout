@@ -27,7 +27,7 @@ wget https://raw.githubusercontent.com/webster6667/smart-grid-generator-layout/m
   "name": "package-name",
   "version": "0.0.1",
   "scripts": {
-    "build-grid": "node smart-grid.js"
+    "build:grid": "node smart-grid.js"
   }
 }
 ```
@@ -36,7 +36,7 @@ wget https://raw.githubusercontent.com/webster6667/smart-grid-generator-layout/m
 
 * Run npm script
 ```shell
-npm run build-grid
+npm run build:grid
 ```
 
 #### Smart-grid config description
